@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Suchismita
 
-![Person Working on a Laptop]("https://images.app.goo.gl/Q2UJQynhLazBAJqq8")
+![Person Working on a Laptop](assets/person-working-laptop.png)
 
 Welcome to my GitHub profile! I'm a passionate Data Science Student delving deep into the realms of Artificial Intelligence. Here's a glimpse of my journey and the skills I'm sharpening to make impactful contributions to the world of AI and beyond.
 
