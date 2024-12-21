@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Suchismita
 
-![Person Working on a Laptop]("C:\Users\suchi\Downloads\DALL·E 2024-12-21 23.33.43 - A stylized animated-style illustration of a person working on a laptop, sitting at a desk in a modern workspace with a focus on a tech-savvy vibe. The.webp")
+![Person Working on a Laptop]("https://images.app.goo.gl/Q2UJQynhLazBAJqq8")
 
 Welcome to my GitHub profile! I'm a passionate Data Science Student delving deep into the realms of Artificial Intelligence. Here's a glimpse of my journey and the skills I'm sharpening to make impactful contributions to the world of AI and beyond.
 
