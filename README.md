@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Suchismita
 
-![Person Working on a Laptop](assets/person-working-laptop.png)
+
 
 Welcome to my GitHub profile! I'm a passionate Data Science Student delving deep into the realms of Artificial Intelligence. Here's a glimpse of my journey and the skills I'm sharpening to make impactful contributions to the world of AI and beyond.
 
@@ -57,3 +57,26 @@ Exploring RNNs, transformers, and other deep learning architectures.
 ![NLP](https://img.shields.io/badge/NLP-00818e?style=for-the-badge&logo=NLP&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-f1c175?style=for-the-badge&logo=LLM&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-00818e?style=for-the-badge&logo=Gen%20AI&logoColor=white)
+
+
+
+#### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **Machine Learning Projects**                   | **Repository**       | **Technology used & Tools**                          |
+|:------------------------------------|:-----------------------------:|:-----------------------------------------------|
+
+| Customer Transaction Prediction| [View](https://github.com/Suchismita-Bisoi/customer_transaction-Prediction.git) | `Machine Learning`, `Python`                   | 
+| Credit Card Segmentation       | [View](https://github.com/Suchismita-Bisoi/Qtechsolutions_Suchi.git)            | `Machine Learning`, `Python`                   | 
+| Basic Chatbot                  | [View](https://github.com/Suchismita-Bisoi/Qtechsolutions_Suchi.git)            | `Machine Learning`, `Python`                   |
+| FIFA 20 Clustering             | [View](https://github.com/Suchismita-Bisoi/fifa_20.git)                         | `Machine Learning`, `Python`                   |
+| Movie rating                   | [View](https://github.com/Suchismita-Bisoi/Qtechsolutions_Suchi.git)            | `Machine Learning`, `Python`                   |
+| Heart Disease Prediction       | [View](https://github.com/Suchismita-Bisoi/Qtechsolutions_Suchi.git)            | `Machine Learning`, `Python`                   |
+| Liver Disease Prediction       | [View](https://github.com/Suchismita-Bisoi/liver-disease.git)                   | `Machine Learning`, `Python`                   |
+
+
+
+#### 𝐂𝐍𝐍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **CNN Projects**                               | **Repository**   | **Technology used & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| Handwritten Digit recognization| [View](https://github.com/Suchismita-Bisoi/Qtechsolutions_Suchi.git)            | `CNN Classification`, `Python`                |
+| Rice Leaf Disease detection    | [View](https://github.com/Suchismita-Bisoi/Rice-Leaf-disease-detection.git)     | `CNN Classification`, `Python`                | 
+
